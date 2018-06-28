@@ -27,7 +27,7 @@ function sunAnimate(a, b) {
     context.beginPath(); //路径开始 
     context.lineWidth = 2
     //context.strokeStyle = '#000';
-    context.shadowBlur=100;
+    context.shadowBlur=100;  // 添加阴影
     context.shadowColor="#fff";
     context.fillStyle = 'yellow'  
     let angle = a < 180 ? Math.PI * a / 180 : Math.PI;  // 
