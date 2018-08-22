@@ -1,4 +1,4 @@
-# canvas-sun0822
+# canvas-sun
 ------
 
 ### 一个由canvas实现的日出日落的效果（待完善）  
